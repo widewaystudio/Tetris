@@ -1,0 +1,32 @@
+/*
+* @Author: Think
+* @Date:   2018-06-21 08:39:56
+* @Last Modified by:   Think
+* @Last Modified time: 2018-06-23 09:30:11
+*/
+div{
+	font-size:12px;
+}
+#curSpeedEle{
+	display:inline-block;
+	min-width:20px;
+    margin-right: 10px;
+    font-size:20px;
+    color:#888;
+    padding-left:2px;
+}
+
+#curScoreEle,#maxScoreEle{
+	display:inline-block;
+	min-width:60px;
+	font-size:20px;
+	color:#888;
+	padding-left:2px;
+}
+input{
+	width:70px;
+	height:30px;
+	line-height:30px;
+	font-size:18px;
+	text-align:center;
+}
